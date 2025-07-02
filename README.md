@@ -1,7 +1,7 @@
 
 Hi, I'm **Mahak Rajwani**  
 🚀 **Frontend Developer**  
-🎓 **Final Year B.Tech (Computer Science) student at SSIPMT, Raipur**  
+🎓 **Recent B.Tech (Computer Science) Graduate from SSIPMT, Raipur**  
 🏆 **Batch Topper**  
 🌱 I thrive on building user-friendly applications and solving real-world problems.   
 &nbsp;&nbsp;&nbsp;&nbsp;  I’ve completed multiple internships ,developed real-life projects, and contributed  
